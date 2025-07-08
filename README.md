@@ -44,8 +44,6 @@ Follow these steps to use ATM Simulator.
      style="display: inline-block; margin: 0 auto; width:800px; height:600px;">     
 <img src="/screenshots/5.jpg"
      style="display: inline-block; margin: 0 auto; width:800px; height:600px;">
-<img src="/screenshots/6.jpg"
-     style="display: inline-block; margin: 0 auto; width:800px; height:450px;">
 <img src="/screenshots/3.jpg"
      style="display: inline-block; margin: 0 auto; width:800px; height:700px;">
 <!-- CONTRIBUTING -->
